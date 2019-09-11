@@ -1,0 +1,18 @@
+{
+  "name": "switch-case",
+  "main": "./lib/switch-case",
+  "version": "0.0.1",
+  "description": "Switch case with the same command",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "switch-case:toggle"
+  },
+  "repository": "https://github.com/leornado/atom-switch-case.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
